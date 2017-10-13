@@ -6,7 +6,6 @@ SyslogNet
 
 .Net Syslog client. Supports both RFC 3164 and RFC 5424 Syslog standards as well as UDP and encrypted TCP transports.
 
-Installation
-============
+## Installation
 
 This code is not available on NuGet. You need to clone this repo and copy it to your project.
